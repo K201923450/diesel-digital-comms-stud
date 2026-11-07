@@ -1,0 +1,19 @@
+variable,response,count,percent,valid_n,missing_count
+A1. What is your gender?,Female,33,66.0,50,0
+A1. What is your gender?,Male,17,34.0,50,0
+A2. What is your age group?,25 - 34,30,60.0,50,0
+A2. What is your age group?,18 -24,15,30.0,50,0
+A2. What is your age group?,45 - 54,3,6.0,50,0
+A2. What is your age group?,35 -44,2,4.0,50,0
+A3. What is your highest level of education completed?,Degree or higher,36,72.0,50,0
+A3. What is your highest level of education completed?,Secondary school,10,20.0,50,0
+A3. What is your highest level of education completed?,Diploma/Certificate,4,8.0,50,0
+A4. Which area within the Capricorn District do you reside in?,Surrounding rural area,18,36.0,50,0
+A4. Which area within the Capricorn District do you reside in?,Polokwane township,13,26.0,50,0
+A4. Which area within the Capricorn District do you reside in?,Other,10,20.0,50,0
+A4. Which area within the Capricorn District do you reside in?,Polokwane urban,9,18.0,50,0
+A5. What is your current employment status?,Student,24,48.0,50,0
+A5. What is your current employment status?,Employed (full-time),13,26.0,50,0
+A5. What is your current employment status?,Unemployed,9,18.0,50,0
+A5. What is your current employment status?,Self-employed,2,4.0,50,0
+A5. What is your current employment status?,Employed (part-time),2,4.0,50,0

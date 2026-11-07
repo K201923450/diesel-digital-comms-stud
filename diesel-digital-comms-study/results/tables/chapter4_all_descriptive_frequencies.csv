@@ -1,0 +1,167 @@
+variable,response,count,percent,valid_n,missing_count
+Do you consent to participate in this study?,"Yes, I agree",50,100.0,50,0
+A1. What is your gender?,Female,33,66.0,50,0
+A1. What is your gender?,Male,17,34.0,50,0
+A2. What is your age group?,25 - 34,30,60.0,50,0
+A2. What is your age group?,18 -24,15,30.0,50,0
+A2. What is your age group?,45 - 54,3,6.0,50,0
+A2. What is your age group?,35 -44,2,4.0,50,0
+A3. What is your highest level of education completed?,Degree or higher,36,72.0,50,0
+A3. What is your highest level of education completed?,Secondary school,10,20.0,50,0
+A3. What is your highest level of education completed?,Diploma/Certificate,4,8.0,50,0
+A4. Which area within the Capricorn District do you reside in?,Surrounding rural area,18,36.0,50,0
+A4. Which area within the Capricorn District do you reside in?,Polokwane township,13,26.0,50,0
+A4. Which area within the Capricorn District do you reside in?,Other,10,20.0,50,0
+A4. Which area within the Capricorn District do you reside in?,Polokwane urban,9,18.0,50,0
+A5. What is your current employment status?,Student,24,48.0,50,0
+A5. What is your current employment status?,Employed (full-time),13,26.0,50,0
+A5. What is your current employment status?,Unemployed,9,18.0,50,0
+A5. What is your current employment status?,Self-employed,2,4.0,50,0
+A5. What is your current employment status?,Employed (part-time),2,4.0,50,0
+B1. How often do you access the internet?,Always,45,90.0,50,0
+B1. How often do you access the internet?,Often,4,8.0,50,0
+B1. How often do you access the internet?,Sometimes,1,2.0,50,0
+B2. What device do you primarily use to access the internet?,Smartphone,45,90.0,50,0
+B2. What device do you primarily use to access the internet?,Laptop/ Desktop,4,8.0,50,0
+B2. What device do you primarily use to access the internet?,Other,1,2.0,50,0
+B4. How often do you come across content about air pollution or environmental issues on digital platforms,Sometimes,24,48.0,50,0
+B4. How often do you come across content about air pollution or environmental issues on digital platforms,Occasionally,12,24.0,50,0
+B4. How often do you come across content about air pollution or environmental issues on digital platforms,Never,12,24.0,50,0
+B4. How often do you come across content about air pollution or environmental issues on digital platforms,Often,1,2.0,50,0
+B4. How often do you come across content about air pollution or environmental issues on digital platforms,Always,1,2.0,50,0
+C1. General Awareness (multiple choice grid) [I am aware that diesel vehicle emissions contribute to air pollution.],Aware,39,78.0,50,0
+C1. General Awareness (multiple choice grid) [I am aware that diesel vehicle emissions contribute to air pollution.],Somewhat aware,6,12.0,50,0
+C1. General Awareness (multiple choice grid) [I am aware that diesel vehicle emissions contribute to air pollution.],Not Aware,5,10.0,50,0
+C1. General Awareness (multiple choice grid) [I am aware that air pollution poses health risks to residents of the Capricorn District],Aware,43,86.0,50,0
+C1. General Awareness (multiple choice grid) [I am aware that air pollution poses health risks to residents of the Capricorn District],Somewhat aware,4,8.0,50,0
+C1. General Awareness (multiple choice grid) [I am aware that air pollution poses health risks to residents of the Capricorn District],Not Aware,3,6.0,50,0
+C1. General Awareness (multiple choice grid) [I know what PM2.5 or particulate matter means in relation to air quality.],Not Aware,24,48.0,50,0
+C1. General Awareness (multiple choice grid) [I know what PM2.5 or particulate matter means in relation to air quality.],Somewhat aware,18,36.0,50,0
+C1. General Awareness (multiple choice grid) [I know what PM2.5 or particulate matter means in relation to air quality.],Aware,8,16.0,50,0
+C1. General Awareness (multiple choice grid) [I have seen or heard information about diesel emissions in my community],Somewhat aware,17,34.0,50,0
+C1. General Awareness (multiple choice grid) [I have seen or heard information about diesel emissions in my community],Not Aware,17,34.0,50,0
+C1. General Awareness (multiple choice grid) [I have seen or heard information about diesel emissions in my community],Aware,16,32.0,50,0
+C2. Where did you first learn about the health risks of diesel emissions?,School/university,26,52.0,50,0
+C2. Where did you first learn about the health risks of diesel emissions?,Social media,11,22.0,50,0
+C2. Where did you first learn about the health risks of diesel emissions?,Never learned about it,10,20.0,50,0
+C2. Where did you first learn about the health risks of diesel emissions?,Television/radio,3,6.0,50,0
+Perceptions of Diesel Emissions as a Health Risk [Diesel emissions from vehicles are a serious health threat in Polokwane.],Agree,23,46.0,50,0
+Perceptions of Diesel Emissions as a Health Risk [Diesel emissions from vehicles are a serious health threat in Polokwane.],Strongly Agree,12,24.0,50,0
+Perceptions of Diesel Emissions as a Health Risk [Diesel emissions from vehicles are a serious health threat in Polokwane.],Neutral,12,24.0,50,0
+Perceptions of Diesel Emissions as a Health Risk [Diesel emissions from vehicles are a serious health threat in Polokwane.],Disagree,2,4.0,50,0
+Perceptions of Diesel Emissions as a Health Risk [Diesel emissions from vehicles are a serious health threat in Polokwane.],Strongly Disagree,1,2.0,50,0
+Perceptions of Diesel Emissions as a Health Risk [Air pollution from diesel vehicles affects the quality of life in my community],Strongly Agree,20,40.0,50,0
+Perceptions of Diesel Emissions as a Health Risk [Air pollution from diesel vehicles affects the quality of life in my community],Agree,15,30.0,50,0
+Perceptions of Diesel Emissions as a Health Risk [Air pollution from diesel vehicles affects the quality of life in my community],Neutral,7,14.0,50,0
+Perceptions of Diesel Emissions as a Health Risk [Air pollution from diesel vehicles affects the quality of life in my community],Strongly Disagree,5,10.0,50,0
+Perceptions of Diesel Emissions as a Health Risk [Air pollution from diesel vehicles affects the quality of life in my community],Disagree,3,6.0,50,0
+Perceptions of Diesel Emissions as a Health Risk [I worry about the long-term health effects of diesel emissions on my family],Agree,20,40.0,50,0
+Perceptions of Diesel Emissions as a Health Risk [I worry about the long-term health effects of diesel emissions on my family],Strongly Agree,14,28.0,50,0
+Perceptions of Diesel Emissions as a Health Risk [I worry about the long-term health effects of diesel emissions on my family],Neutral,9,18.0,50,0
+Perceptions of Diesel Emissions as a Health Risk [I worry about the long-term health effects of diesel emissions on my family],Disagree,4,8.0,50,0
+Perceptions of Diesel Emissions as a Health Risk [I worry about the long-term health effects of diesel emissions on my family],Strongly Disagree,3,6.0,50,0
+Perceptions of Diesel Emissions as a Health Risk [The government is doing enough to address diesel emissions in this area],Strongly Disagree,19,38.0,50,0
+Perceptions of Diesel Emissions as a Health Risk [The government is doing enough to address diesel emissions in this area],Disagree,17,34.0,50,0
+Perceptions of Diesel Emissions as a Health Risk [The government is doing enough to address diesel emissions in this area],Neutral,10,20.0,50,0
+Perceptions of Diesel Emissions as a Health Risk [The government is doing enough to address diesel emissions in this area],Agree,2,4.0,50,0
+Perceptions of Diesel Emissions as a Health Risk [The government is doing enough to address diesel emissions in this area],Strongly Agree,2,4.0,50,0
+Perceptions of Diesel Emissions as a Health Risk [Industries and transport companies are responsible for worsening air quality.],Agree,20,40.0,50,0
+Perceptions of Diesel Emissions as a Health Risk [Industries and transport companies are responsible for worsening air quality.],Strongly Agree,14,28.0,50,0
+Perceptions of Diesel Emissions as a Health Risk [Industries and transport companies are responsible for worsening air quality.],Neutral,11,22.0,50,0
+Perceptions of Diesel Emissions as a Health Risk [Industries and transport companies are responsible for worsening air quality.],Strongly Disagree,4,8.0,50,0
+Perceptions of Diesel Emissions as a Health Risk [Industries and transport companies are responsible for worsening air quality.],Disagree,1,2.0,50,0
+Perceptions of Diesel Emissions as a Health Risk [believe individuals can take actions to reduce exposure to diesel emissions.],Agree,19,38.0,50,0
+Perceptions of Diesel Emissions as a Health Risk [believe individuals can take actions to reduce exposure to diesel emissions.],Strongly Agree,15,30.0,50,0
+Perceptions of Diesel Emissions as a Health Risk [believe individuals can take actions to reduce exposure to diesel emissions.],Neutral,11,22.0,50,0
+Perceptions of Diesel Emissions as a Health Risk [believe individuals can take actions to reduce exposure to diesel emissions.],Strongly Disagree,3,6.0,50,0
+Perceptions of Diesel Emissions as a Health Risk [believe individuals can take actions to reduce exposure to diesel emissions.],Disagree,2,4.0,50,0
+Role of Digital Communication in Shaping Perceptions [Social media has increased my awareness of diesel emissions as a health issue.],Agree,16,32.0,50,0
+Role of Digital Communication in Shaping Perceptions [Social media has increased my awareness of diesel emissions as a health issue.],Neutral,11,22.0,50,0
+Role of Digital Communication in Shaping Perceptions [Social media has increased my awareness of diesel emissions as a health issue.],Disagree,10,20.0,50,0
+Role of Digital Communication in Shaping Perceptions [Social media has increased my awareness of diesel emissions as a health issue.],Strongly Agree,7,14.0,50,0
+Role of Digital Communication in Shaping Perceptions [Social media has increased my awareness of diesel emissions as a health issue.],Strongly Diagree,6,12.0,50,0
+Role of Digital Communication in Shaping Perceptions [Information I have seen online has changed how I think about air pollution.],Agree,19,38.0,50,0
+Role of Digital Communication in Shaping Perceptions [Information I have seen online has changed how I think about air pollution.],Neutral,13,26.0,50,0
+Role of Digital Communication in Shaping Perceptions [Information I have seen online has changed how I think about air pollution.],Strongly Diagree,8,16.0,50,0
+Role of Digital Communication in Shaping Perceptions [Information I have seen online has changed how I think about air pollution.],Strongly Agree,5,10.0,50,0
+Role of Digital Communication in Shaping Perceptions [Information I have seen online has changed how I think about air pollution.],Disagree,5,10.0,50,0
+Role of Digital Communication in Shaping Perceptions [I trust information about air pollution that I find on social media.],Agree,18,36.0,50,0
+Role of Digital Communication in Shaping Perceptions [I trust information about air pollution that I find on social media.],Neutral,18,36.0,50,0
+Role of Digital Communication in Shaping Perceptions [I trust information about air pollution that I find on social media.],Strongly Agree,8,16.0,50,0
+Role of Digital Communication in Shaping Perceptions [I trust information about air pollution that I find on social media.],Strongly Diagree,4,8.0,50,0
+Role of Digital Communication in Shaping Perceptions [I trust information about air pollution that I find on social media.],Disagree,2,4.0,50,0
+Role of Digital Communication in Shaping Perceptions [I trust information about air pollution from government websites],Agree,20,40.0,50,0
+Role of Digital Communication in Shaping Perceptions [I trust information about air pollution from government websites],Strongly Agree,13,26.0,50,0
+Role of Digital Communication in Shaping Perceptions [I trust information about air pollution from government websites],Neutral,13,26.0,50,0
+Role of Digital Communication in Shaping Perceptions [I trust information about air pollution from government websites],Strongly Diagree,3,6.0,50,0
+Role of Digital Communication in Shaping Perceptions [I trust information about air pollution from government websites],Disagree,1,2.0,50,0
+Role of Digital Communication in Shaping Perceptions [Online news articles have helped me understand diesel emission risks],Agree,16,32.0,50,0
+Role of Digital Communication in Shaping Perceptions [Online news articles have helped me understand diesel emission risks],Neutral,15,30.0,50,0
+Role of Digital Communication in Shaping Perceptions [Online news articles have helped me understand diesel emission risks],Strongly Agree,12,24.0,50,0
+Role of Digital Communication in Shaping Perceptions [Online news articles have helped me understand diesel emission risks],Strongly Diagree,5,10.0,50,0
+Role of Digital Communication in Shaping Perceptions [Online news articles have helped me understand diesel emission risks],Disagree,2,4.0,50,0
+Role of Digital Communication in Shaping Perceptions [I have shared content about air pollution or diesel emissions online.],Strongly Diagree,18,36.0,50,0
+Role of Digital Communication in Shaping Perceptions [I have shared content about air pollution or diesel emissions online.],Disagree,11,22.0,50,0
+Role of Digital Communication in Shaping Perceptions [I have shared content about air pollution or diesel emissions online.],Neutral,9,18.0,50,0
+Role of Digital Communication in Shaping Perceptions [I have shared content about air pollution or diesel emissions online.],Agree,7,14.0,50,0
+Role of Digital Communication in Shaping Perceptions [I have shared content about air pollution or diesel emissions online.],Strongly Agree,5,10.0,50,0
+Role of Digital Communication in Shaping Perceptions [Digital communication platforms make it easy for community members to discuss air quality concerns.],Agree,21,42.0,50,0
+Role of Digital Communication in Shaping Perceptions [Digital communication platforms make it easy for community members to discuss air quality concerns.],Strongly Agree,12,24.0,50,0
+Role of Digital Communication in Shaping Perceptions [Digital communication platforms make it easy for community members to discuss air quality concerns.],Neutral,8,16.0,50,0
+Role of Digital Communication in Shaping Perceptions [Digital communication platforms make it easy for community members to discuss air quality concerns.],Strongly Diagree,5,10.0,50,0
+Role of Digital Communication in Shaping Perceptions [Digital communication platforms make it easy for community members to discuss air quality concerns.],Disagree,4,8.0,50,0
+Role of Digital Communication in Shaping Perceptions [Misinformation about air quality is common on social media platforms I use],Neutral,16,32.0,50,0
+Role of Digital Communication in Shaping Perceptions [Misinformation about air quality is common on social media platforms I use],Agree,13,26.0,50,0
+Role of Digital Communication in Shaping Perceptions [Misinformation about air quality is common on social media platforms I use],Strongly Agree,9,18.0,50,0
+Role of Digital Communication in Shaping Perceptions [Misinformation about air quality is common on social media platforms I use],Disagree,7,14.0,50,0
+Role of Digital Communication in Shaping Perceptions [Misinformation about air quality is common on social media platforms I use],Strongly Diagree,5,10.0,50,0
+"F1. When you see content about diesel emissions online, how is it most often framed?",As an environmental issue,23,46.0,50,0
+"F1. When you see content about diesel emissions online, how is it most often framed?",I rarely see such content,13,26.0,50,0
+"F1. When you see content about diesel emissions online, how is it most often framed?",As a health crisis,9,18.0,50,0
+"F1. When you see content about diesel emissions online, how is it most often framed?",As a government failure,3,6.0,50,0
+"F1. When you see content about diesel emissions online, how is it most often framed?",As an economic issue,2,4.0,50,0
+Framing of Diesel Emission Messages [Online messages about diesel emissions tend to focus on health impacts.],Agree,22,44.0,50,0
+Framing of Diesel Emission Messages [Online messages about diesel emissions tend to focus on health impacts.],Neutral,17,34.0,50,0
+Framing of Diesel Emission Messages [Online messages about diesel emissions tend to focus on health impacts.],Strongly Agree,5,10.0,50,0
+Framing of Diesel Emission Messages [Online messages about diesel emissions tend to focus on health impacts.],Strongly Disagree,4,8.0,50,0
+Framing of Diesel Emission Messages [Online messages about diesel emissions tend to focus on health impacts.],Disagree,2,4.0,50,0
+Framing of Diesel Emission Messages [Online messages about diesel emissions tend to blame government or industry.],Agree,19,38.0,50,0
+Framing of Diesel Emission Messages [Online messages about diesel emissions tend to blame government or industry.],Neutral,16,32.0,50,0
+Framing of Diesel Emission Messages [Online messages about diesel emissions tend to blame government or industry.],Strongly Agree,9,18.0,50,0
+Framing of Diesel Emission Messages [Online messages about diesel emissions tend to blame government or industry.],Disagree,3,6.0,50,0
+Framing of Diesel Emission Messages [Online messages about diesel emissions tend to blame government or industry.],Strongly Disagree,3,6.0,50,0
+Framing of Diesel Emission Messages [Online messages about diesel emissions provide practical advice for residents.],Neutral,19,38.0,50,0
+Framing of Diesel Emission Messages [Online messages about diesel emissions provide practical advice for residents.],Agree,13,26.0,50,0
+Framing of Diesel Emission Messages [Online messages about diesel emissions provide practical advice for residents.],Disagree,10,20.0,50,0
+Framing of Diesel Emission Messages [Online messages about diesel emissions provide practical advice for residents.],Strongly Disagree,5,10.0,50,0
+Framing of Diesel Emission Messages [Online messages about diesel emissions provide practical advice for residents.],Strongly Agree,3,6.0,50,0
+Framing of Diesel Emission Messages [I feel the framing of air pollution messages online is balanced and fair.],Neutral,16,32.0,50,0
+Framing of Diesel Emission Messages [I feel the framing of air pollution messages online is balanced and fair.],Agree,11,22.0,50,0
+Framing of Diesel Emission Messages [I feel the framing of air pollution messages online is balanced and fair.],Disagree,9,18.0,50,0
+Framing of Diesel Emission Messages [I feel the framing of air pollution messages online is balanced and fair.],Strongly Agree,7,14.0,50,0
+Framing of Diesel Emission Messages [I feel the framing of air pollution messages online is balanced and fair.],Strongly Disagree,7,14.0,50,0
+Framing of Diesel Emission Messages [Emotionally charged content about diesel emissions makes me more likely to share it.],Neutral,17,34.0,50,0
+Framing of Diesel Emission Messages [Emotionally charged content about diesel emissions makes me more likely to share it.],Agree,16,32.0,50,0
+Framing of Diesel Emission Messages [Emotionally charged content about diesel emissions makes me more likely to share it.],Disagree,8,16.0,50,0
+Framing of Diesel Emission Messages [Emotionally charged content about diesel emissions makes me more likely to share it.],Strongly Agree,6,12.0,50,0
+Framing of Diesel Emission Messages [Emotionally charged content about diesel emissions makes me more likely to share it.],Strongly Disagree,3,6.0,50,0
+Community Awareness and Action [I have discussed air pollution concerns with family or friends after seeing online content.],Disagree,17,34.0,50,0
+Community Awareness and Action [I have discussed air pollution concerns with family or friends after seeing online content.],Agree,15,30.0,50,0
+Community Awareness and Action [I have discussed air pollution concerns with family or friends after seeing online content.],Neutral,8,16.0,50,0
+Community Awareness and Action [I have discussed air pollution concerns with family or friends after seeing online content.],Strongly Disagree,5,10.0,50,0
+Community Awareness and Action [I have discussed air pollution concerns with family or friends after seeing online content.],Strongly Agree,5,10.0,50,0
+Community Awareness and Action [I have contacted a government office or organisation about air quality concerns.],Strongly Disagree,22,44.0,50,0
+Community Awareness and Action [I have contacted a government office or organisation about air quality concerns.],Disagree,20,40.0,50,0
+Community Awareness and Action [I have contacted a government office or organisation about air quality concerns.],Neutral,3,6.0,50,0
+Community Awareness and Action [I have contacted a government office or organisation about air quality concerns.],Agree,3,6.0,50,0
+Community Awareness and Action [I have contacted a government office or organisation about air quality concerns.],Strongly Agree,2,4.0,50,0
+Community Awareness and Action [I have participated in any community initiative related to air quality.],Disagree,17,34.0,50,0
+Community Awareness and Action [I have participated in any community initiative related to air quality.],Strongly Disagree,13,26.0,50,0
+Community Awareness and Action [I have participated in any community initiative related to air quality.],Neutral,8,16.0,50,0
+Community Awareness and Action [I have participated in any community initiative related to air quality.],Agree,8,16.0,50,0
+Community Awareness and Action [I have participated in any community initiative related to air quality.],Strongly Agree,4,8.0,50,0
+Community Awareness and Action [Digital communication has motivated me to take action on air quality issues.],Neutral,18,36.0,50,0
+Community Awareness and Action [Digital communication has motivated me to take action on air quality issues.],Disagree,9,18.0,50,0
+Community Awareness and Action [Digital communication has motivated me to take action on air quality issues.],Agree,9,18.0,50,0
+Community Awareness and Action [Digital communication has motivated me to take action on air quality issues.],Strongly Disagree,7,14.0,50,0
+Community Awareness and Action [Digital communication has motivated me to take action on air quality issues.],Strongly Agree,7,14.0,50,0

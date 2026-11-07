@@ -1,0 +1,42 @@
+variable,missing_count,missing_percent
+Timestamp,0,0.0
+Do you consent to participate in this study?,0,0.0
+A1. What is your gender?,0,0.0
+A2. What is your age group?,0,0.0
+A3. What is your highest level of education completed?,0,0.0
+A4. Which area within the Capricorn District do you reside in?,0,0.0
+A5. What is your current employment status?,0,0.0
+B1. How often do you access the internet?,0,0.0
+B2. What device do you primarily use to access the internet?,0,0.0
+B3. Which social media platforms do you use regularly? (tick all that apply,0,0.0
+B4. How often do you come across content about air pollution or environmental issues on digital platforms,0,0.0
+C1. General Awareness (multiple choice grid) [I am aware that diesel vehicle emissions contribute to air pollution.],0,0.0
+C1. General Awareness (multiple choice grid) [I am aware that air pollution poses health risks to residents of the Capricorn District],0,0.0
+C1. General Awareness (multiple choice grid) [I know what PM2.5 or particulate matter means in relation to air quality.],0,0.0
+C1. General Awareness (multiple choice grid) [I have seen or heard information about diesel emissions in my community],0,0.0
+C2. Where did you first learn about the health risks of diesel emissions?,0,0.0
+Perceptions of Diesel Emissions as a Health Risk [Diesel emissions from vehicles are a serious health threat in Polokwane.],0,0.0
+Perceptions of Diesel Emissions as a Health Risk [Air pollution from diesel vehicles affects the quality of life in my community],0,0.0
+Perceptions of Diesel Emissions as a Health Risk [I worry about the long-term health effects of diesel emissions on my family],0,0.0
+Perceptions of Diesel Emissions as a Health Risk [The government is doing enough to address diesel emissions in this area],0,0.0
+Perceptions of Diesel Emissions as a Health Risk [Industries and transport companies are responsible for worsening air quality.],0,0.0
+Perceptions of Diesel Emissions as a Health Risk [believe individuals can take actions to reduce exposure to diesel emissions.],0,0.0
+Role of Digital Communication in Shaping Perceptions [Social media has increased my awareness of diesel emissions as a health issue.],0,0.0
+Role of Digital Communication in Shaping Perceptions [Information I have seen online has changed how I think about air pollution.],0,0.0
+Role of Digital Communication in Shaping Perceptions [I trust information about air pollution that I find on social media.],0,0.0
+Role of Digital Communication in Shaping Perceptions [I trust information about air pollution from government websites],0,0.0
+Role of Digital Communication in Shaping Perceptions [Online news articles have helped me understand diesel emission risks],0,0.0
+Role of Digital Communication in Shaping Perceptions [I have shared content about air pollution or diesel emissions online.],0,0.0
+Role of Digital Communication in Shaping Perceptions [Digital communication platforms make it easy for community members to discuss air quality concerns.],0,0.0
+Role of Digital Communication in Shaping Perceptions [Misinformation about air quality is common on social media platforms I use],0,0.0
+"F1. When you see content about diesel emissions online, how is it most often framed?",0,0.0
+Framing of Diesel Emission Messages [Online messages about diesel emissions tend to focus on health impacts.],0,0.0
+Framing of Diesel Emission Messages [Online messages about diesel emissions tend to blame government or industry.],0,0.0
+Framing of Diesel Emission Messages [Online messages about diesel emissions provide practical advice for residents.],0,0.0
+Framing of Diesel Emission Messages [I feel the framing of air pollution messages online is balanced and fair.],0,0.0
+Framing of Diesel Emission Messages [Emotionally charged content about diesel emissions makes me more likely to share it.],0,0.0
+Community Awareness and Action [I have discussed air pollution concerns with family or friends after seeing online content.],0,0.0
+Community Awareness and Action [I have contacted a government office or organisation about air quality concerns.],0,0.0
+Community Awareness and Action [I have participated in any community initiative related to air quality.],0,0.0
+Community Awareness and Action [Digital communication has motivated me to take action on air quality issues.],0,0.0
+G2. Is there anything else you would like to share about how digital communication has influenced your understanding of diesel emissions or air quality in your community?,33,66.0
